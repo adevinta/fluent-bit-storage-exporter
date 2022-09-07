@@ -1,0 +1,11 @@
+{
+    "storage_layer": {
+        "chunks": {
+            "total_chunks": 2,
+            "mem_chunks": 20,
+            "fs_chunks": 0,
+            "fs_chunks_up": 0,
+            "fs_chunks_down": 0
+        }
+    }
+}
